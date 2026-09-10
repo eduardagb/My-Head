@@ -14,4 +14,11 @@ body {
     margin-top: 30px;
     color: #d63384;
     font-size: 40px;
+
+.descricao {
+    text-align: center;
+    color: #6c757d;
 }
+
+}
+
